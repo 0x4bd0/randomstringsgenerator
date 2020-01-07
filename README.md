@@ -1,5 +1,5 @@
 # randomstringsgenerator
-This package will generate a random string with params
+This package will generate a random string with params, for example you can use this package to generate passwords. 
 
 # Getting started :
  ``` npm i randomstringsgenerator ```
