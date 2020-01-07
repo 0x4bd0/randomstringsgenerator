@@ -1,6 +1,6 @@
 {
   "name": "randomstringsgenerator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "this pakage will generate a random string with params",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "random",
     "generator",
     "string generator",
+    "strings generator",
     "password generator"
   ],
   "author": "0x4bd0",

@@ -6,7 +6,7 @@ let  generateArrayOfCharsFromAscii  = (from, to) => {
     return n
   }
 
-const rsg = (length = 10,upperCase = false,lowerCase=true,specialChars=false,numbers=true) => {
+const rsg = (length = 10,upperCase = false,lowerCase=true,specialChars=false,number=true) => {
 
     let genFrom = []
     if(upperCase) genFrom = genFrom.concat(generateArrayOfCharsFromAscii(65, 90))
