@@ -14,7 +14,7 @@ it will return a random string including lowerCase and numbers only with the len
  ```javascript
 randomstringsgenerator(length,upperCase,lowerCase,specialChars,number)
 ```
-#Example
+# Example
 If i want a random string including uppercase, lowercase, special characters and numbers, with a length of 15 <br>
  ```javascript
 randomstringsgenerator(15,true,true,true,true)
