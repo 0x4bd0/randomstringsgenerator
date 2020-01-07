@@ -1,0 +1,26 @@
+{
+  "name": "randomstringgenerator",
+  "version": "0.0.1",
+  "description": "this pakage will generate a random string with params",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x4bd0/randomstringgenerator.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "generator",
+    "string generator",
+    "password generator"
+  ],
+  "author": "0x4bd0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x4bd0/randomstringgenerator/issues"
+  },
+  "homepage": "https://github.com/0x4bd0/randomstringgenerator#readme"
+}
