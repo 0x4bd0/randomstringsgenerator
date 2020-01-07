@@ -2,7 +2,7 @@
 This package will generate a random string with params
 
 # Getting started :
-npm i randomstringsgenerator
+ ``` npm i randomstringsgenerator ```
 
 # How to use:
 
