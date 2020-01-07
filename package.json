@@ -1,6 +1,6 @@
 {
-  "name": "randomstringgenerator",
-  "version": "0.0.1",
+  "name": "randomstringsgenerator",
+  "version": "0.0.2",
   "description": "this pakage will generate a random string with params",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0x4bd0/randomstringgenerator.git"
+    "url": "git+https://github.com/0x4bd0/randomstringsgenerator.git"
   },
   "keywords": [
     "string",
@@ -20,7 +20,7 @@
   "author": "0x4bd0",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0x4bd0/randomstringgenerator/issues"
+    "url": "https://github.com/0x4bd0/randomstringsgenerator/issues"
   },
-  "homepage": "https://github.com/0x4bd0/randomstringgenerator#readme"
+  "homepage": "https://github.com/0x4bd0/randomstringsgenerator#readme"
 }
