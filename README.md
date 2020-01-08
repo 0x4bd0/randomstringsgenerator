@@ -3,6 +3,7 @@ This package will generate a random string with params, for example you can use 
 
 # Getting started :
  ``` npm i randomstringsgenerator ```
+ ``` yarn add randomstringsgenerator ```
 
 # How to use:
 
