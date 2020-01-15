@@ -1,27 +1,27 @@
 {
-  "name": "randomstringsgenerator",
-  "version": "0.0.4",
-  "description": "this pakage will generate a random string with params",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/0x4bd0/randomstringsgenerator.git"
-  },
-  "keywords": [
-    "string",
-    "random",
-    "generator",
-    "string generator",
-    "strings generator",
-    "password generator"
-  ],
-  "author": "0x4bd0",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/0x4bd0/randomstringsgenerator/issues"
-  },
-  "homepage": "https://github.com/0x4bd0/randomstringsgenerator#readme"
+	"name": "randomstringsgenerator",
+	"version": "0.0.5",
+	"description": "this pakage will generate a random string with params",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/0x4bd0/randomstringsgenerator.git"
+	},
+	"keywords": [
+		"string",
+		"random",
+		"generator",
+		"string generator",
+		"strings generator",
+		"password generator"
+	],
+	"author": "0x4bd0",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/0x4bd0/randomstringsgenerator/issues"
+	},
+	"homepage": "https://github.com/0x4bd0/randomstringsgenerator#readme"
 }
