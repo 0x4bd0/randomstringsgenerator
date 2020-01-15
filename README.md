@@ -4,7 +4,10 @@ This package will generate a random string with params, for example you can use 
 # Getting started :
  ``` npm i randomstringsgenerator ```  <br>
  or <br>
- ``` yarn add randomstringsgenerator ```
+ ``` yarn add randomstringsgenerator ``` <br>
+ Next we import it  <br>
+  ``` const rsg = require('randomstringsgenerator') ```
+ 
 
 # How to use:
 
@@ -14,12 +17,12 @@ it will return a random string including lowerCase and numbers only with the len
  length => a number, represent the length of the string, <br>
  params => Array accept the following strings 'upperCase','lowerCase','specialChars','numbers' <br>
  ```javascript
-randomstringsgenerator(length,params)
+rsg(length,params)
 ```
 # Example
 If i want a random string including uppercase, lowercase, special characters and numbers, with a length of 15 <br>
  ```javascript
-randomstringsgenerator(15,['numbers','upperCase','lowerCase','specialChars')
+rsg(15,['numbers','upperCase','lowerCase','specialChars')
 ```
 
 
