@@ -8,18 +8,15 @@ let generateArrayOfCharsFromAscii = (from, to) => {
 
 const rsg = (
 	length = 10,
-	upperCase = false,
-	lowerCase = true,
-	specialChars = false,
-	numbers = true
+	params = ['lowerCase','numbers']
 ) => {
 	let genFrom = [];
-	if (upperCase)
+	if ((params.includes('upperCase')))
 		genFrom = genFrom.concat(generateArrayOfCharsFromAscii(65, 90));
-	if (lowerCase)
+	if ((params.includes('lowerCase')))
 		genFrom = genFrom.concat(generateArrayOfCharsFromAscii(97, 122));
-	if (numbers) genFrom = genFrom.concat(generateArrayOfCharsFromAscii(48, 57));
-	if (specialChars)
+	if  ((params.includes('numbers'))) genFrom = genFrom.concat(generateArrayOfCharsFromAscii(48, 57));
+	if  ((params.includes('specialChars')))
 		genFrom = genFrom
 			.concat(generateArrayOfCharsFromAscii(33, 47))
 			.concat(generateArrayOfCharsFromAscii(58, 64))
