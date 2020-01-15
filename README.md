@@ -11,11 +11,11 @@ This package will generate a random string with params, for example you can use 
 
 # How to use:
 
-The packge accepts 5 inputs, if you call the generator without passing any params, <br>
+The packge accepts 2 inputs, if you call the generator without passing any params, <br>
 it will return a random string including lowerCase and numbers only, with the length of 10 chars.<br>
 # Inputs :  <br>
 1- length => a number, represents the length of the string. <br>
-2- params => Array [] accepts the following strings 'upperCase','lowerCase','specialChars','numbers'.<br>
+2- params => Array [] accepts the following strings ['upperCase', 'lowerCase', 'specialChars', 'numbers'].<br>
  ```javascript
 rsg(length,params)
 ```
