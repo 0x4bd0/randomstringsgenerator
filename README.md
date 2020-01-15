@@ -22,7 +22,7 @@ rsg(length,params)
 # Example
 If i want a random string including uppercase, lowercase, special characters and numbers, with a length of 15 <br>
  ```javascript
-rsg(15,['numbers','upperCase','lowerCase','specialChars')
+rsg(15,['numbers','upperCase','lowerCase','specialChars'])
 ```
 
 
