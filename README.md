@@ -2,7 +2,8 @@
 This package will generate a random string with params, for example you can use this package to generate passwords. 
 
 # Getting started :
- ``` npm i randomstringsgenerator ```
+ ``` npm i randomstringsgenerator ```  <br>
+ ``` yarn add randomstringsgenerator ```
 
 # How to use:
 
