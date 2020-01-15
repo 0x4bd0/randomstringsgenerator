@@ -12,7 +12,7 @@ The packge accepts 5 params, if you call the generator without passing any param
 it will return a random string including lowerCase and numbers only with the length of 10 chars.<br>
  Now for the params :  <br>
  length => a number, represent the length of the string, <br>
- params => Array accept the following strings 'upperCase','lowerCase','specialChars','number' <br>
+ params => Array accept the following strings 'upperCase','lowerCase','specialChars','numbers' <br>
  ```javascript
 randomstringsgenerator(length,params)
 ```
