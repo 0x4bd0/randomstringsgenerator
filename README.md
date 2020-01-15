@@ -3,9 +3,13 @@ This package will generate a random string with params, for example you can use 
 
 # Getting started :
  ``` npm i randomstringsgenerator ```  <br>
+
  Or <br>
+
  ``` yarn add randomstringsgenerator ``` <br>
+
  Next we import it  <br>
+ 
   ``` const rsg = require('randomstringsgenerator') ```
  
 
